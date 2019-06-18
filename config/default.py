@@ -19,7 +19,8 @@ from blueapps.conf.default_settings import *  # noqa
 #     'blueapps.account',
 # )
 
-# 请在这里加入你的自定义 APP
+# 请在这里加入你的自sad
+# 义 APP
 INSTALLED_APPS += (
     'home_application',
     'mako_application'
